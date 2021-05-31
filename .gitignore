@@ -1,0 +1,15 @@
+#exclude files
+*.py[co]
+*.egg-info
+*.local
+
+# C extensions
+*.so
+
+*.log
+*.log.*
+
+# exclude virtualenv directory
+venv/
+# exclude ide dir
+.idea/
